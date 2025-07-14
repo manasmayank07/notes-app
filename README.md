@@ -1,2 +1,7 @@
-# notes-app
- A simple notes app using JavaScript and LocalStorage.
+
+# Notes App
+
+A simple notes app with JS LocalStorage.
+
+## Usage
+Open `index.html` in your browser.
